@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: herschel\n"
+"POT-Creation-Date: 2016-09-06 22:52+0200\n"
+"PO-Revision-Date: 2016-09-06 22:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: Kniffen Technologies\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e;_x;_nx\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Dette var litt flaut"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location."
+msgstr "Det ser ikke ut til å være noe her."
+
+#: comments.php:22
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En tanke om &ldquo;%s&rdquo;"
+
+#: comments.php:27
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr "%1$s sin tanke om &ldquo;%2$s&rdquo;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt"
+
+#: footer.php:39
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %1$s fra %2$s"
+
+#: functions.php:80
+msgid "Header Menu"
+msgstr "Toppmeny"
+
+#: functions.php:81
+msgid "Footer Menu"
+msgstr "Footermeny"
+
+#: functions.php:94
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:96
+msgid "Widget area in the header"
+msgstr "Widget område i sidetoppen"
+
+#: functions.php:104
+msgid "Above the content"
+msgstr "Over innhold"
+
+#: functions.php:106
+msgid "Widget area above the content"
+msgstr "Widget område over innholdet"
+
+#: functions.php:114
+msgid "Below the content"
+msgstr "Under innhold"
+
+#: functions.php:116
+msgid "Widget area below the content"
+msgstr "Widget område under innholdet"
+
+#: functions.php:124
+msgid "Sidebar"
+msgstr "Sidefelt"
+
+#: functions.php:126
+msgid "Widget area at the side of the content"
+msgstr "Widget onråde ved siden av innholdet"
+
+#: functions.php:134
+msgid "Footer (top)"
+msgstr "Footer (Topp)"
+
+#: functions.php:136
+msgid "Widget area at the top of the footer"
+msgstr "Widget område i toppen av footeren"
+
+#: functions.php:144
+msgid "Footer (bottom)"
+msgstr "Footer (Bunn)"
+
+#: functions.php:146
+msgid "Widget area at the bottom of the footer"
+msgstr "Widget område i toppen av footeren"
+
+#: image.php:26
+msgid "Previous Image"
+msgstr "Forige bilde"
+
+#: image.php:27
+msgid "Next Image"
+msgstr "Neste bilde"
+
+#: inc/customize.php:21
+msgid "Display Site Title"
+msgstr "Vis tittel"
+
+#: inc/customize.php:33
+msgid "Display Tagline"
+msgstr "Vis beskrivelse"
+
+#: inc/customize.php:45
+msgid "Color Scheme"
+msgstr "Fargevalg"
+
+#: inc/customize.php:57
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: inc/customize.php:64
+msgid "Entry Metadata"
+msgstr "Metadata for innlegg"
+
+#: inc/customize.php:75
+msgid "Display author"
+msgstr "Vis forfatter"
+
+#: inc/customize.php:87
+msgid "Display date posted"
+msgstr "Vis dato postet"
+
+#: inc/customize.php:99
+msgid "Display comment count"
+msgstr "Vis kommentar tall"
+
+#: inc/customize.php:111
+msgid "Display Categories"
+msgstr "Vis kategorier"
+
+#: inc/customize.php:123
+msgid "Display Tags"
+msgstr "Vis stikkord"
+
+#: inc/customize.php:135
+msgid "Display Author Bio"
+msgstr "Vis forfatters bio"
+
+#: inc/customize.php:142
+msgid "Design Options"
+msgstr "Design valg"
+
+#: inc/customize.php:153
+msgid "Display breadcrumbs"
+msgstr "Vis smuler"
+
+#: inc/customize.php:167
+msgid "Change the layout of the site"
+msgstr "Endre oppsett"
+
+#: inc/customize.php:170 inc/customize.php:323
+msgid "Wide"
+msgstr "Bred"
+
+#: inc/customize.php:171 inc/customize.php:324
+msgid "Condensed"
+msgstr "Kompakt"
+
+#: inc/customize.php:172 inc/customize.php:325
+msgid "Full Content"
+msgstr "Fult innhold"
+
+#: inc/customize.php:183
+msgid "Display thumbnails on index pages"
+msgstr "Vis miniatyrbilde på arkiv sider"
+
+#: inc/customize.php:195
+msgid "Display thumbnails on content pages"
+msgstr "Vis miniatyrbilde på innholdsider"
+
+#: inc/customize.php:207
+msgid "Display read more button"
+msgstr "Vis les mer knapp"
+
+#: inc/customize.php:214
+msgid "Social Media Icons"
+msgstr "Sosiale medier ikoner"
+
+#: inc/customize.php:225
+msgid "RSS Link"
+msgstr "RSS Lenke"
+
+#: inc/customize.php:248
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customize.php:259
+msgid "Footer text"
+msgstr "Footer tekst"
+
+#: inc/customize.php:271
+msgid "Show Copyright Icon"
+msgstr "Vis kopirett ikon"
+
+#: inc/customize.php:283
+msgid "Show Current Year"
+msgstr "Vis nåværende år"
+
+#: inc/customize.php:295
+msgid "Advertise Theme Author"
+msgstr "Reklamer tema forfatter"
+
+#: inc/customize.php:307
+msgid "Scroll to top icon"
+msgstr "Scroll til top ikon"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: searchform.php:15
+msgid "Search"
+msgstr "Søk"
+
+#: template-parts/author_bio.php:15
+msgid "Author:"
+msgstr "Forfatter:"
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr "Fant  ingenting"
+
+#: template-parts/content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klar til å publisere ditt første innlegg? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager men ingenting ble funnet med ditt søkeord. Venligst prøv med et "
+"annet."
+
+#: template-parts/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det ser ikke ut til at vi fant hva du leter etter. Kansje et søk vil hjelpe?"
+
+#: template-parts/content.php:21
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content.php:25 template-parts/loop.php:61
+msgid "Page"
+msgstr "Side"
+
+#: template-parts/content.php:44
+msgid "Next post:"
+msgstr "neste innlegg:"
+
+#: template-parts/content.php:47
+msgid "Previous post:"
+msgstr "Forige innlegg:"
+
+#: template-parts/content_header.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: template-parts/content_header.php:21
+msgid "404 Not Found"
+msgstr "404 Ingenting funnet"
+
+#: template-parts/content_header.php:24
+msgid "Untitled Post"
+msgstr "Mangler tittel"
+
+#: template-parts/entry_meta.php:75
+msgid "Format"
+msgstr "Format"
+
+#: template-parts/entry_meta.php:100
+msgid "Edit"
+msgstr "Rediger"
+
+#: template-parts/loop.php:23
+msgid "Untitled post"
+msgstr "Mangler tittel"
+
+#: template-parts/loop.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Ler mer<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/loop.php:47
+msgid "Read more"
+msgstr "Ler mer"
+
+#: template-parts/loop.php:59
+msgid "Previous page"
+msgstr "Forige side"
+
+#: template-parts/loop.php:60
+msgid "Next page"
+msgstr "Neste side"
+
+#~ msgid "Upload a logo"
+#~ msgstr "Last opp en logo"
+
+#~ msgid "Asides"
+#~ msgstr "Sidefelt"
+
+#~ msgid "Galleries"
+#~ msgstr "Gallerier"
+
+#~ msgid "Images"
+#~ msgstr "Bilder"
+
+#~ msgid "Videos"
+#~ msgstr "Videoer"
+
+#~ msgid "Quotes"
+#~ msgstr "Sitater"
+
+#~ msgid "Links"
+#~ msgstr "Lenker"
+
+#~ msgid "Statuses"
+#~ msgstr "Statuser"
+
+#~ msgid "Audio"
+#~ msgstr "Lyd"
+
+#~ msgid "Chats"
+#~ msgstr "Diskusjoner"
+
+#~ msgid "Archives"
+#~ msgstr "Arkiver"
+
+#~ msgid "Display Post Format"
+#~ msgstr "Vis innleggets format"
+
+#~ msgid "Theme:"
+#~ msgstr "Tema:"
+
+#~ msgid "by"
+#~ msgstr "av"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Vis alle poster fra %s"
