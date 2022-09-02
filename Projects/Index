@@ -1,1 +1,293 @@
 
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<base href="" />
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="/xmlrpc.php">
+	<title>Papers &#8211; Mark Bowker</title>
+
+	<!-- Meta Tag Manager -->
+	<meta name="author" content="Mark Bowker" />
+	<meta name="description" content="Mark Bowker is a Skłodowska–Curie Fellow in Philosophy at Lund University." />
+	<meta name="keywords" content="Mark Bowker philosophy, Mark Bowker, philosophy, Bowker philosophy" />
+	<!-- / Meta Tag Manager -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mark Bowker &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mark Bowker &raquo; Comments Feed" href="/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fl-builder-layout-429-css'  href='/wp-content/uploads/bb-plugin/cache/429-layout.css?ver=2a4510bb669f0ed8e673e1723521d0fa' type='text/css' media='all' />
+<link rel='stylesheet' id='herschel-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,800,800italic,700italic,700,600italic,400italic,300italic,300' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='herschel-style-css'  href='/wp-content/themes/herschel/style.css?ver=4.7.5' type='text/css' media='all' />
+<style id='herschel-style-inline-css' type='text/css'>
+
+		body{
+			background: ##ffffff;
+		}
+
+		body,
+		a i,
+		.entry-title a,
+		.entry-meta a,
+		.entry-meta i,
+		.herschel-breadcrumbs,
+		.herschel-breadcrumbs a,
+		.widget-container a,
+		.widget-title{
+			color: #000000;
+		}
+
+		.pagination > a:hover{
+			color: #000000 !important;
+		}
+
+		a,
+		a:hover,
+		#header-widget-area a:hover,
+		#herschel-social-media-links a i:hover,
+		#scroll-to-top i,
+		#site-footer a:hover{
+			color: #000000;
+		}
+
+		.widget_calendar a{
+			color: #000000 !important;
+		}
+
+		#header-menu-container,
+		input[type="submit"],
+		input[type="reset"],
+		button,
+		.comment-reply-link,
+		.button,
+		.page-numbers:not(.current):not(.dots),
+		.pagination > a{
+			background-color: #000000 ;
+		}
+
+		.page-numbers:not(.dots),
+		.pagination > span:not(.page-links-title),
+		.pagination > a,
+		#scroll-to-top{
+			border-color: #000000;
+		
+	}
+	
+	a, span.link {
+  color: #a46528 ;
+}
+	
+
+a:active, {
+   color: red;
+}
+</style>
+<link rel='stylesheet' id='upw_theme_standard-css'  href='/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='?sccss=1&#038;ver=4.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.5" />
+<link rel="canonical" href="/papers/" />
+<link rel='shortlink' href='/?p=429' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Fpapers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2Fpapers%2F&#038;format=xml" />
+</head>
+<body class="page-template-default page page-id-429 fl-builder no-sidebar no-social-icons">
+
+	<header id="site-header">
+		<div class="wrapper">
+			<div id="social-bar">
+				
+	<ul id="herschel-social-media-links">
+		<li>
+			<i id="menu-toggle"class="fa fa-bars"></i>
+		</li>
+
+			</ul>
+			</div>
+
+			<div id="site-header-inner">
+				<div id="site-information">
+					
+											<h1 id="site-title">
+							<a href="/">Mark Bowker</a>
+						</h1>
+					
+											<p id="site-tagline">Marie Skłodowska–Curie Fellow in Philosophy, Lund University</p>
+									</div>
+
+							</div>
+
+		</div>
+	</header>
+
+	<div id="header-menu-container" class="menu-primary-menu-container"><ul id="menu-primary-menu" class="header-menu"><li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170"><a title="Mark Bowker, Philosophy &#8211; Home" href="/">Home</a></li>
+<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-429 current_page_item menu-item-436"><a title="Mark Bowker, Philosophy Papers" href="/papers/">Papers</a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a title="Mark Bowker, Philosophy Conferences" href="/conferences/">Conferences</a></li>
+		<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a title="Mark Bowker, Philosophy CV" href="/cv/">CV</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a title="Mark Bowker, Philosophy &#8211; Contact Details" href="/contact/">Contact</a></li>
+
+		</ul></div>
+	<div id="site-content" class="wrapper">
+
+<main>
+		
+		<header class="entry-header">
+	
+	<h2 class="content-title">
+	Papers	</h2>
+
+	
+	
+	
+</header>
+
+	<article id="post-429" class="post-429 page type-page status-publish hentry">	
+		<div class="fl-builder-content fl-builder-content-429 fl-builder-content-primary" data-post-id="429"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-58ad9f8eb88fa" data-node="58ad9f8eb88fa">
+	<div class="fl-row-content-wrap">
+				<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-58ad9f8eba52b" data-node="58ad9f8eba52b">
+			<div class="fl-col fl-node-58ad9f8eba72e" data-node="58ad9f8eba72e" style="width: 100%;">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-58ad9f9246fb7" data-node="58ad9f9246fb7" data-animation-delay="0.0">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><strong>Publications:</strong></p>
+<ul>
+
+
+<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/covid.pdf">A Problem for Generic Generalisations in Scientific Communication</a></span>. Forthcoming. <em>The Journal of Applied Philosophy.</em></li>
+
+<p> Abstract: Generic generalisations like ‘Opioids are highly addictive’ are very useful in scientific communication, but they can often be interpreted in many different ways. Although this is not a problem when all interpretations provide the same answer to the question under discussion, a problem arises when a generic generalisation is used to answer a question other than that originally intended. In such cases, some interpretations of the generalisation might answer the question in a way that the original speaker would not endorse. Rather than excising generic generalisations from scientific communication, I recommend that scientific communicators carefully consider the kinds of questions their words might be taken to answer and try to avoid phrasing that might be taken to provide unintended answers.</p>
+
+<p><span style="text-decoration: underline;"><a href="https://doi.org/10.1111/japp.12616">DOI: 10.1111/japp.12616</a></span></p></li>
+			
+<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/shifting.pdf">Shifting Perspective on Indexicals</a></span>. Published online 2022. Forthcoming in print. <em>Pragmatics.</em></li>
+
+<p> Abstract: The debate over the meanings of indexical expressions has relied heavily on the method of counterexamples. This paper challenges that method by showing that purported counterexamples can often be explained away by appeal to perspective shifts. For these counterexamples to establish anything about indexical reference, we must identify the conditions under which theorists can legitimately appeal to <i>perspective shifts</i>. Some tests for semantic content are considered and it is argued that none of them can tell us when appeal to perspective shift is admissible. The paper then considers how we should proceed if we become convinced that there is no way to identify the content of indexical expressions, offering reasons in favour of a nihilist conception of character over an epistemicist or pluralist conception.</p>
+<p><span style="text-decoration: underline;"><a href="http://doi.org/10.1075/prag.21007.bow">DOI: 10.1075/prag.21007.bow</a></span></p></li>
+
+
+			
+<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/IneliminableUnderdeterminationandContextShiftingArguments.pdf">Ineliminable Underdetermination and Context-Shifting Arguments.</a></span>  2022. <em>Inquiry.</em> 65(2): 215-
+236. Published online 2019.</li>
+	<p> Abstract: The truth-conditions of utterances are often underdetermined by the meaning of the sentence uttered, as suggested by the observation that the same sentence has different intuitive truth-values in different contexts. The intuitive difference is usually explained by assigning different truth-conditions to different utterances. This paper poses a problem for explanations of this kind: These truth-conditions, if they exist, are epistemically inaccessible. I suggest instead that truth-conditional underdetermination is ineliminable and these utterances have no truth-conditions. Intuitive truth-values are explained by the effect that all the most reasonable interpretations have on the common ground: An utterance is intuitively true when it is true on all interpretations that answer the question under discussion.</p>
+			<p><span style="text-decoration: underline;"><a href="https://doi.org/10.1080/0020174X.2019.1688176">DOI: 10.1080/0020174X.2019.1688176</a></span></p></li>
+
+	<li><span style="text-decoration: underline;"><a href="https://academic.oup.com/bjaesthetics/advance-article/doi/10.1093/aesthj/ayaa036/6156679?guestAccessKey=6f774f55-1f15-40d7-8ac4-19f3bdd4c75d">Truth in Fiction, Underdetermination,
+and the Experience of Actuality</a></span>. 2021. <em>The British Journal of Aesthetics</em> 61(4): 437–454.</li>
+	
+<p> Abstract: It seems true to say that Sherlock Holmes is a detective, despite there being no Sherlock Holmes. When asked to explain this fact, philosophers of language often opt for some version of Lewis’s view that sentences like ‘Sherlock Holmes is a detective’ may be taken as abbreviations for sentences prefixed with ‘In the Sherlock Holmes stories …’. I present two problems for this view. First, I provide reason to deny that these sentences are abbreviations. In short, these sentences have aesthetic properties that we should not expect of abbreviations. Second, I argue that the apparent truth of these sentences would not be explained even if they were abbreviations. An alternative is presented that avoids these problems. Following Walton, talk about fiction is viewed as a game of make-believe; following Lewis, interpretations of fiction are modelled using possible worlds.</p>
+<p><span style="text-decoration: underline;"><a href="https://doi.org/10.1093/aesthj/ayaa036">DOI: 10.1093/aesthj/ayaa036</a></span></p></li>
+	
+
+<li><span style="text-decoration: underline;"><a href="https://finophd.eu/WOC2021/paper14.pdf">Cognitive Context-Sensitivity</a></span>. 2021. In C. Penco, A. Negro (eds.) <em>Proceedings of the 2021 Workshop on Context</em>, June 20-21 2021.</li>
+
+<p> Abstract: This paper introduces a notion of cognitive context-sensitivity, in contrast with linguistic context-sensitivity. When a sentence is cognitively contextsensitive, the truth-value assigned to the sentence can vary with context, without any corresponding shift in the interpretation of the terms or structure of the sentence. The notion will be deployed to explain the context-sensitivity of generic generalizations.</p>
+
+
+<li><span style="text-decoration: underline;"><a href="http://rdcu.be/CVSV">Saying a Bundle: Meaning, Intention, and Underdetermination</a></span>. 2019. <em>Synthese</em>, 196(10): 4229-4252. Published online 2017.</li>
+	<p> Abstract: People often speak loosely, uttering sentences that are plainly false on their most strict interpretation. In understanding such speakers, we face a problem of underdetermination: there is often no unique interpretation that captures what they meant. Focusing on the case of incomplete definite descriptions, this paper suggests that speakers often mean bundles of propositions. When a speaker means a bundle, their audience can know what they mean by deriving any one of its members. Rather than posing a problem for the interpretation of loose talk, the underdetermination of a uniquely correct interpretation allows for various ways in which the audience can grasp the speaker’s meaning.</p>
+	<p><span style="text-decoration: underline;"><a href="https://doi.org/10.1007/s11229-017-1652-0">DOI: 10.1007/s11229-017-1652-0</a></span></p></li>
+		
+<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/UnderdeterminationDomainRestrictionandTheoryChoice(Uncorrectedproof).pdf">Underdetermination, Domain Restriction, and Theory Choice</a></span>. 2019. <em>Mind &amp;</em> <em>Language</em>, 34(2): 205-220. Published online 2018.</li>
+	<p> Abstract: It is often possible to know what a speaker intends to communicate without knowing what they intend to express. In such cases, speakers need not intend to express anything at all. Stanley and Szabó's influential survey of possible analysis of quantifier domain restriction is, therefore, incomplete and the arguments made by Clapp and Buchanan against Truth Conditional Compositionality and propositional speaker‐meaning are flawed. Two theories should not always be viewed as incompatible when they associate the same utterance with different propositions, as there may be many ways to interpret speakers that are compatible with their intentions.</p>
+	<p><span style="text-decoration: underline;"><a href="https://doi.org/10.1111/mila.12207">DOI: 10.1111/mila.12207</a></span></p></li>
+
+		<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/LiefkeBowker_LENLS13_JSAI-isAI_final.pdf">Rich Situated Attitudes</a></span>. 2017. With Kristina Liefke. <em>New Frontiers in Artificial Intelligence</em>, edited by S. Kurahashi, Y. Ohta, S. Arai, K. Satoh, D. Bekki. Lecture Notes in Artificial Intelligence Vol. 10247, Springer, pp. 45-61.</li>
+		<p> Abstract: We outline a novel theory of natural language meaning, Rich Situated Semantics [RSS], on which the content of sentential utterances is semantically rich and informationally situated. In virtue of its situatedness, an utterance’s rich situated content varies with the informational situation of the cognitive agent interpreting the utterance. In virtue of its richness, this content contains information beyond the utterance’s lexically encoded information. The agent-dependence of rich situated content solves a number of problems in semantics and the philosophy of language (cf. [14, 20, 25]). In particular, since RSS varies the granularity of utterance contents with the interpreting agent’s informational situation, it solves the problem of finding suitably fine- or coarse-grained objects for the content of propositional attitudes. In virtue of this variation, a layman will reason with more propositions than an expert.</p>
+			<p><span style="text-decoration: underline;"><a href="https://doi.org/10.1007/978-3-319-61572-1_4">DOI: 10.1007/978-3-319-61572-1_4</a></span></p></li>
+
+
+<li><span style="text-decoration: underline;"><a href="https://openjournals.bsu.edu/stance/article/view/1745/1063">Weighing Solutions to the Lottery Puzzle</a></span>. 2010. <em>Stance: An International Undergraduate Philosophy Journal</em>  3(1): 25-32.</li>
+
+
+<p> Abstract: The lottery puzzle can elicit strong intuitions in favour of skepticism, according to which we ordinary language-users speak falsely about knowledge with shocking regularity. Various contextualist and  invariantist  responses  to  the  puzzle  attempt  to  avoid  this  unwelcome  result  and  preserve  the competence of ordinary speakers. I will argue that these solutions can be successful only if they respect intuitions of a certain kind, and proceed to judge competing solutions by this criterion. </p>
+<p><span style="text-decoration: underline;"><a href="https://doi.org/10.33043/S.3.1.25-32">DOI: 10.33043/S.3.1.25-32</a></span></p></li>
+
+<p><strong>As Editor</strong></p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://link.springer.com/journal/11229/topicalCollection/AC_5c1fe53ec818a34a2ad7db7029fe80a4/page/1">Topical Collection on Indeterminacy and Underdetermination</a></span>. <em>Synthese</em>. With Maria Baghramian.</li>
+</ul>
+<p><strong>Dissertations</strong></p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/Mark-Bowker-Saying-Nothing.pdf">Saying Nothing</a>.</span> PhD dissertation.</li>
+<li><span style="text-decoration: underline;"><a href="/wp-content/uploads/2017/02/Mark-Bowker.-MLitt-Philosophy-dissertation.pdf">The Epistemic Significance of Disagreement</a></span>. MLitt dissertation.</li>
+</ul>
+<p>In order to facilitate anonymous review, I no longer list titles of works in progress or under review but please contact me for drafts or further information.</p>
+</div>	</div>
+</div>	</div>
+</div>	</div>
+		</div>
+	</div>
+</div></div>
+		<div style="clear: both; height: 0px;">&nbsp;</div>
+	</article>
+
+
+	
+
+	
+
+</main>
+
+</div><!-- #site-content -->
+
+
+<footer id="site-footer">
+	<div class="wrapper footer-wrapper">
+		
+		
+		<div id="footer-information">
+			<span>
+				Mark Bowker				&copy;				2018			</span>
+
+							<span>
+					Theme: Herschel by <a href="http://knifftech.net/">Kniffen Technologies</a>				</span>
+					</div>
+
+					<a id="scroll-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+		
+	</div>
+</footer>
+
+<script type="text/javascript">
+
+if(typeof jQuery == 'undefined' || typeof jQuery.fn.on == 'undefined') {
+	document.write('<script src="/wp-content/plugins/beaver-builder-lite-version/js/jquery.js"><\/script>');
+	document.write('<script src="/wp-content/plugins/beaver-builder-lite-version/js/jquery.migrate.min.js"><\/script>');
+}
+
+</script><script type='text/javascript' src='/wp-content/uploads/bb-plugin/cache/429-layout.js?ver=2a4510bb669f0ed8e673e1723521d0fa'></script>
+<script type='text/javascript' src='/wp-content/themes/herschel/js/functions.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+
+</body>
+</html>
